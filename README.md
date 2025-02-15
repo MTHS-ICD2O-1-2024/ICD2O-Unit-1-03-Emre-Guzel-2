@@ -1,6 +1,6 @@
 # ICS2O
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY> https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-03-Emre-Guzel-2/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)</OWNER>/</REPOSITORY> ](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-03-Emre-Guzel-2/actions)
+[![Mr Coxall's Super Linter](https://github.com/<OWNER>https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-03-Emre-Guzel-2/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-03-Emre-Guzel-2/actions)
 
 
 
